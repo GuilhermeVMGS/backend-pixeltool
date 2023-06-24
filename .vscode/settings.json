@@ -1,0 +1,13 @@
+{
+    "maven.executable.path": "C:\\Users\\GUILHERME\\Desktop\\apache-maven-3.9.2\\bin\\mvn.cmd",
+    "java.configuration.maven.userSettings": "C:\\Users\\GUILHERME\\Desktop\\jdk-19.0.2",
+    "java.jdt.ls.vmargs": "",
+    "java.test.config": {
+        "vmArgs": ["-Dspring.config.location=C:\\Users\\GUILHERME\\Desktop\\"]
+    },
+    "launch": {
+        "configurations": [
+
+        ]
+    }
+}

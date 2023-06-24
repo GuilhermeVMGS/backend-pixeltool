@@ -1,0 +1,6 @@
+br\unibh\sdm\backend_usuario\persistencia\DynamoDBConfig.class
+br\unibh\sdm\backend_usuario\persistencia\EmpresaRepository.class
+br\unibh\sdm\backend_usuario\rest\EmpresaController.class
+br\unibh\sdm\backend_usuario\entidades\Empresa.class
+br\unibh\sdm\backend_usuario\negocio\EmpresaService.class
+br\unibh\sdm\backend_usuario\Application.class
